@@ -28,7 +28,7 @@ Follow these steps to install the project:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/username/responsive-collage-art-exhibition.git
+   git clone https://github.com/abdul-1432/Responsive-Collage-Art-Exhibition
    ```
 
 2. Change into the project directory:
