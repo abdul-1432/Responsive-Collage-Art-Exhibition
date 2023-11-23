@@ -2,6 +2,12 @@
 
 ![1](https://github.com/abdul-1432/Responsive-Collage-Art-Exhibition/assets/124916666/c7858920-172a-46e2-8e7c-3fd88d5ca5e2)
 
+![3](https://github.com/abdul-1432/Responsive-Collage-Art-Exhibition/assets/124916666/6f0e701d-4e23-41b7-a55b-f14e024df045)
+
+
+
+
+
 Welcome to the GitHub repository for our Responsive Collage Art Exhibition. This interactive web application features scroll animation, lightbox, and more, all crafted with HTML, CSS, and JavaScript. We drew inspiration from CodePen and have curated a user-friendly experience for all to enjoy.
 
 ## Getting Started
